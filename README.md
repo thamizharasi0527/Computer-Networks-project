@@ -1,0 +1,1 @@
+developed a simple file transmission program in python using hamming code through network where client request for file transmission and server sends it encoded using hamming code and client decodes it using reversed hamming code
